@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsmaaMohamediDev/backend.git"
+  },
+  "author": "Asmaa MOHAMEDI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsmaaMohamediDev/backend/issues"
+  },
+  "homepage": "https://github.com/AsmaaMohamediDev/backend#readme",
+  "description": ""
+}
